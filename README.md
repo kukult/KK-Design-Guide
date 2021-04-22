@@ -1,6 +1,6 @@
 # KK-Design-Guide
 
-## **COLUMNS, GUTTERS, AND MARGINS**
+## **Columns, Gutters, and Margins**
 
 Layout grid is made up of three elements: columns, gutters, and margins. 
 
