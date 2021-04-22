@@ -5,11 +5,11 @@
 Layout grid is made up of three elements: columns, gutters, and margins. 
 
 
-- **Margins** : Margins are the space between content and the left and right edges of the screen. On android mobile, at a breakpoint of 360 dp, this layout grid uses 16dp margins. (1 px = 1 dp)
+1. **Margins** : Margins are the space between content and the left and right edges of the screen. On android mobile, at a breakpoint of 360 dp, this layout grid uses 16dp margins. (1 px = 1 dp)
 
-- **Columns** : Content is placed in the areas of the screen that contain columns.
+2. **Columns** : Content is placed in the areas of the screen that contain columns.
 
-- **Gutters** : Gutters are the spaces between columns. They help separate content. On android mobile, at a breakpoint of 360 dp, this layout grid uses 16dp gutters. (1 px = 1 dp)
+3. **Gutters** : Gutters are the spaces between columns. They help separate content. On android mobile, at a breakpoint of 360 dp, this layout grid uses 16dp gutters. (1 px = 1 dp)
 
 
 
